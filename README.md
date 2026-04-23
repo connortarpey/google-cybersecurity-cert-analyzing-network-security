@@ -31,7 +31,3 @@ Detect potential security incidents and improve monitoring capabilities to incre
 Respond to contain, neutralize, and analyze security incidents; implement improvements to the security process. 
 
 Recover affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
-
-Step-By-Step Instructions
-
-Follow the instructions and fill in the sections to complete the activity. Then, go to the next course item to compare your work to a completed exemplar.
