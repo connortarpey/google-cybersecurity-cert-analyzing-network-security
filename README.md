@@ -54,12 +54,12 @@ For future security events, the cybersecurity team will:
 
 ## Recover
 
-Recovery steps to return network services to a normal functioning state:
+Recovery steps taken to return the network services to a normal functioning state:
 
-1. Block external ICMP flood attacks at the firewall.
-2. Stop all non-critical network services to reduce internal network traffic.
-3. Restore critical network services first.
-4. Once the flood of ICMP packets has timed out, bring all non-critical systems and services back online.
+1. Blocked external ICMP flood attacks at the firewall.
+2. Stopped all non-critical network services to reduce internal network traffic.
+3. Restored critical network services first.
+4. Once the flood of ICMP packets timed out, brought all non-critical systems and services back online.
 
 **Long-term improvements:**
 
